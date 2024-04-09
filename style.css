@@ -1,0 +1,22 @@
+body{
+    font-family: Verdana;
+    font-size: 2em;
+}
+
+p {
+    font-size: 12px;
+}
+
+.header {
+    height: 50px;
+    background-color: aquamarine;
+}
+
+.footer {
+    padding: 20px;
+    background-color:blue;
+    color: aliceblue;
+    /* margin-top:auto; */
+    text-align:center;
+    
+}
